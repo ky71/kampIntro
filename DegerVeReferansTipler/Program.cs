@@ -27,6 +27,8 @@ namespace DegerVeReferansTipler
             //int,decimal,float,double,bool=değer tip
             //array,class, interface = referans tip
             //değer tipler stack da çalışır, referans tip heap de çalışır
+            //.............
+            //sadasdsadadsadsa
 
         }
     }
